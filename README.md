@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/chichigua/cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>👾 modsiw's Personal Site</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  <img src="https://hosting.photobucket.com/images/h240/modsiw/(edited)_Modsiw_Logo_Reddit(1).png" alt="Modsiw_Logo_Reddits">
+  <h1>modsiw</h1>
+  <p>
+    <em>Founder and holder of the virtual identity of <a href="https://modsiw.io">modsiw.</a></em>
+  </p>
+  <p>
+    I'm a student at Angela's Yunkyard, Currently refreshing my web programming skills. This will allow me to lead teams and recruits in order to achieve the desired outcome.
+  </p>
+  <hr>
+  <h3>Teams and recruits</h3>
+  <ul>
+    <li>Ryoshi Vision Concerts</li>
+    <br>
+    <ul>
+      <li><em>Create a <a href="https://ryoshivisionconcerts.io">portal</a> that will enable Ryoshi Vision token holders to acquire artwork and goodies from their favoring artists.</em></li>
+    </ul>
+    <br>
+    <li>Ryoshi Vision Burn Tracker</li>
+    <ul>
+      <li><em>Create a live tracker of the circulating supply reduction of Ryoshi Vision Token in ERC20.</em></li>
+    </ul>
+    <br>
+    <li>Mp3 invention animation</li>
+    <ul>
+      <li><em>Complete the animation of a script and storyboard that will reflect in a fresh style when the Mp3 was invented.</em></li>
+    </ul>
+  </ul>
+  <br>
+  <hr>
+  <h3>Skills</h3>
+  <br>
+  <table border="1">
 
-### Markdown
+    <thead>
+      <tr>
+        <th colspan="6" align="center">Details and Scores</th>
+      </tr>
+    </thead>
+    <tbody>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <tr>
+        <td>Internet of Things</td>
+        <td>⭐⭐⭐</td>
+        <td>Earthlike Expertise</td>
+        <td>⭐⭐⭐⭐</td>
+        <td>Family special powers</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Linux and Windows OS</td>
+        <td>⭐⭐⭐⭐</td>
+        <td>Civil Engineer Automation</td>
+        <td>⭐⭐⭐⭐</td>
+        <td>Who shall not forget</td>
+        <td>⭐⭐⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Networking and Cabling</td>
+        <td>⭐⭐⭐⭐</td>
+        <td>Leading teams with Impact</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>Who will remind us</td>
+        <td>⭐⭐⭐</td>
+      </tr>
+      <tr>
+        <td>Online Gaming</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>Adaptability to MCEs</td>
+        <td>⭐⭐⭐⭐⭐</td>
+        <td>The bro that can take it</td>
+        <td>⭐⭐⭐⭐</td>
+      </tr>
 
-```markdown
-Syntax highlighted code block
+    </tbody>
+  </table>
+  <br>
+  <br>
+  <hr>
+  <a href="hobbies.html">My Hobbies</a> - <a href="contact.html">Contact me</a>
+</body>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chichigua/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
